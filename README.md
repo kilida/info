@@ -9,7 +9,7 @@ Kilida's pull request history reflects this. *except for two additional merged
 patches which did not happen under this account*. For completeness, these may
 be found at:
 
-https://github.com/jOOQ/jOOQ/pull/5024
+https://github.com/jOOQ/jOOQ/pull/5024<br>
 https://github.com/findbugsproject/findbugs/pull/82
 
 At the time of writing, 22 issues are open, and 20 are closed under this
