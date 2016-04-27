@@ -16,3 +16,8 @@ At the time of writing, 22 issues are open, and 20 are closed under this
 account. One issue was closed by us under this account to rectify a logistical
 mistake. That brings the tally to 22 open and 19 + the two additions above,
 which are closed.
+
+In summary, closed PRs can be seen here:
+https://github.com/search?utf8=%E2%9C%93&q=author%3Akilida+is%3Apr+is%3Aclosed&type=Issues&ref=searchresults
+Open ones here:
+https://github.com/search?utf8=%E2%9C%93&q=author%3Akilida+is%3Apr+is%3Aopen&type=Issues&ref=searchresults
